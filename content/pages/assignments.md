@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a description of the student research project assigned
+  for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b143504c-fd21-f633-803a-10c0a6e7dc7a
 ---
