@@ -63,7 +63,7 @@ The Paris Hotel (1550-1830)
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262040824) Dennis, M. [_Court and Garden: from the French Hôtel to the City of Modern Architecture_](https://mitpress.mit.edu/0262040824). Cambridge, MA: MIT Press, 1986, pp. 1-177. ISBN: 0262040824.
+{{% resource_link "b405877e-a710-4eb5-b20b-57669cf3e71e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dennis, M. {{% resource_link "b405877e-a710-4eb5-b20b-57669cf3e71e" "_Court and Garden: from the French Hôtel to the City of Modern Architecture_" %}}. Cambridge, MA: MIT Press, 1986, pp. 1-177. ISBN: 0262040824.
 
 
 {{< tdclose >}}
@@ -163,7 +163,7 @@ The Paris Apartment (1850-1925)
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262040824) Dennis, M. [_Court and Garden: from the French Hôtel to the City of Modern Architecture_](https://mitpress.mit.edu/0262040824). Cambridge, MA: MIT Press, 1986, pp. 178-209. ISBN: 0262040824.
+{{% resource_link "b405877e-a710-4eb5-b20b-57669cf3e71e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dennis, M. {{% resource_link "b405877e-a710-4eb5-b20b-57669cf3e71e" "_Court and Garden: from the French Hôtel to the City of Modern Architecture_" %}}. Cambridge, MA: MIT Press, 1986, pp. 178-209. ISBN: 0262040824.
 
 Daly, C., ed. _Revue générale de l'architecture et des travaux publics_. Paris, France: Paulin Hetzel, 1839. (Out of print.)
 
@@ -303,7 +303,7 @@ Serlio, S. _Sesto libro de architettura_. (Unpublished, n.d.; before 1554). Two 
 
 ### London
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/literature-british-domestic-architecture-1715-1842) Archer, J. [_The Literature of British Domestic Architecture 1715-1842_](https://mitpress.mit.edu/books/literature-british-domestic-architecture-1715-1842). Cambridge, MA: MIT Press, 1985. ISBN: 0262010763.
+{{% resource_link "90eee3da-d947-4714-a4a8-eb0d1746c227" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Archer, J. {{% resource_link "90eee3da-d947-4714-a4a8-eb0d1746c227" "_The Literature of British Domestic Architecture 1715-1842_" %}}. Cambridge, MA: MIT Press, 1985. ISBN: 0262010763.
 
 Cameron, R., and A. Cooke. _Above London_. San Francisco, CA: Cameron and Company, 1980.
 
@@ -313,7 +313,7 @@ Jackson-Stops, G., and J. Pipkin. _The English Country House: A Grand Tour_. Was
 
 Jones, E., and C. Woodward. _A Guide to the Architecture of London_. London, UK: Phoenix Illustrated, 1983.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/contributors/steen-eiler-rasmussen) Rasmusssen, S. E. [_London, the Unique City_](https://mitpress.mit.edu/contributors/steen-eiler-rasmussen). Cambridge, MA: MIT Press, 1982. ISBN: 0262680270.
+{{% resource_link "59e67e29-238e-4624-b0c4-5b4d8a663cef" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rasmusssen, S. E. {{% resource_link "59e67e29-238e-4624-b0c4-5b4d8a663cef" "_London, the Unique City_" %}}. Cambridge, MA: MIT Press, 1982. ISBN: 0262680270.
 
 Sheppard, F. H. W. _The Survey of London_. London, UK: Athlone Press for London City Council, 1957.
 
@@ -329,6 +329,6 @@ Cromley, E. C. _Alone Together: A History of New York's Early Apartments_. Ithac
 
 Ford, J. _Slums and Housing_. Vols. 1 and 2. Cambridge, MA: Harvard University Press, 1936.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/place-called-home) Jackson, A. [_A Place Called Home: A History of Low-Cost Housing in Manhattan_](https://mitpress.mit.edu/books/place-called-home). Cambridge, MA: MIT Press, 1976. ISBN: 0262100177.
+{{% resource_link "0802132d-bb11-4299-b184-fda90f618749" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jackson, A. {{% resource_link "0802132d-bb11-4299-b184-fda90f618749" "_A Place Called Home: A History of Low-Cost Housing in Manhattan_" %}}. Cambridge, MA: MIT Press, 1976. ISBN: 0262100177.
 
 Stern, R. A. M., G. Gilmartin, and T. Mellin. _New York 1930: Architecture and Urbanism Between the Two World Wars_. New York, NY: RizzoIi International Publishers, 1987.
