@@ -57,7 +57,7 @@ Stern, R. A. M., G. Gilmartin, and J. M. Massengale. *New York 1900: Metropolita
 The Paris Apartment (1850-1925)
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262040824) Dennis, M. [*Court and Garden: from the French Hôtel to the City of Modern Architecture*](https://mitpress.mit.edu/0262040824). Cambridge, MA: MIT Press, 1986, pp. 178-209. ISBN: 0262040824.
+{{% resource_link "1985f871-efb4-4b09-906e-9ea1fda4f63c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dennis, M. {{% resource_link "1985f871-efb4-4b09-906e-9ea1fda4f63c" "*Court and Garden: from the French Hôtel to the City of Modern Architecture*" %}}. Cambridge, MA: MIT Press, 1986, pp. 178-209. ISBN: 0262040824.
 
 Daly, C., ed. *Revue générale de l'architecture et des travaux publics*. Paris, France: Paulin Hetzel, 1839. (Out of print.)
 
@@ -117,7 +117,7 @@ Serlio, S. *Sesto libro de architettura*. (Unpublished, n.d.; before 1554). Two 
 
 ### London
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/literature-british-domestic-architecture-1715-1842) Archer, J. [*The Literature of British Domestic Architecture 1715-1842*](https://mitpress.mit.edu/books/literature-british-domestic-architecture-1715-1842). Cambridge, MA: MIT Press, 1985. ISBN: 0262010763.
+{{% resource_link "a40e3c3e-0ff5-433a-b143-bdfe63f6b47a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Archer, J. {{% resource_link "a40e3c3e-0ff5-433a-b143-bdfe63f6b47a" "*The Literature of British Domestic Architecture 1715-1842*" %}}. Cambridge, MA: MIT Press, 1985. ISBN: 0262010763.
 
 Cameron, R., and A. Cooke. *Above London*. San Francisco, CA: Cameron and Company, 1980.
 
@@ -127,7 +127,7 @@ Jackson-Stops, G., and J. Pipkin. *The English Country House: A Grand Tour*. Was
 
 Jones, E., and C. Woodward. *A Guide to the Architecture of London*. London, UK: Phoenix Illustrated, 1983.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/contributors/steen-eiler-rasmussen) Rasmusssen, S. E. [*London, the Unique City*](https://mitpress.mit.edu/contributors/steen-eiler-rasmussen). Cambridge, MA: MIT Press, 1982. ISBN: 0262680270.
+{{% resource_link "2662fbeb-f4e9-4d8e-a7a8-57835f94b91c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rasmusssen, S. E. {{% resource_link "2662fbeb-f4e9-4d8e-a7a8-57835f94b91c" "*London, the Unique City*" %}}. Cambridge, MA: MIT Press, 1982. ISBN: 0262680270.
 
 Sheppard, F. H. W. *The Survey of London*. London, UK: Athlone Press for London City Council, 1957.
 
@@ -143,6 +143,6 @@ Cromley, E. C. *Alone Together: A History of New York's Early Apartments*. Ithac
 
 Ford, J. *Slums and Housing*. Vols. 1 and 2. Cambridge, MA: Harvard University Press, 1936.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/place-called-home) Jackson, A. [*A Place Called Home: A History of Low-Cost Housing in Manhattan*](https://mitpress.mit.edu/books/place-called-home). Cambridge, MA: MIT Press, 1976. ISBN: 0262100177.
+{{% resource_link "941e634b-3449-409d-9bf2-9a0c0bfd0d3c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jackson, A. {{% resource_link "941e634b-3449-409d-9bf2-9a0c0bfd0d3c" "*A Place Called Home: A History of Low-Cost Housing in Manhattan*" %}}. Cambridge, MA: MIT Press, 1976. ISBN: 0262100177.
 
 Stern, R. A. M., G. Gilmartin, and T. Mellin. *New York 1930: Architecture and Urbanism Between the Two World Wars*. New York, NY: RizzoIi International Publishers, 1987.
